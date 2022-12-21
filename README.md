@@ -7,4 +7,9 @@
 
 
 
+############# NOTE #################
+*** You Have to import database/feedback_system.sql File in PHPMYAdmin or SQL Workbench then project work otherwise don't think about Marks..
+
+
+
 ######### Enjoy It #################333
